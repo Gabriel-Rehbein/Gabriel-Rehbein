@@ -61,9 +61,5 @@ Também crio soluções com foco em **educação, inclusão digital e automaçã
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
-</p>
-
-<p align="center">
   Obrigado por visitar meu perfil! Vamos criar algo incrível juntos. 🚀
 </p>
