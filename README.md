@@ -19,15 +19,34 @@ Atuo em projetos que envolvem desde o front-end com interfaces modernas até o b
 
 Também crio soluções com foco em **educação, inclusão digital e automação inteligente**, explorando integração com dispositivos como **Arduino** e sistemas locais.
 
+Costumo sempre ter ideias inovadoras, projetos que algum dia pretendo botar em pratica no mercado de trabalho. 
+
+-> Esses projetos estão todos nos meus repoitórios.
+
 ---
 
 ## 🚀 Tecnologias e Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,javascript,mysql,git,github,arduino" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.arduino.cc/reference/en/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://docs.replit.com/" target="_blank"><img src="https://skillicons.dev/icons?i=replit" /></a>
+  <a href="https://www.sublimetext.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=sublime" /></a>
+  <a href="https://learn.microsoft.com/en-us/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" /></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </p>
 
-🛠️ Extras: UX/UI, APIs, integração com Arduino  
+
+
+🛠️ Extras: UX/UI, APIs
 📚 Estudando: Java, C++
 
 ---
@@ -37,7 +56,6 @@ Também crio soluções com foco em **educação, inclusão digital e automaçã
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rehbein&layout=compact&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Rehbein&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Rehbein&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
