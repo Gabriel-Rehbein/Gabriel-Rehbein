@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Gabriel-Rehbein&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Foco+em+UX+e+Automação;Apaixonado+por+Tecnologia" alt="Typing SVG" />
-</p>
+
 
 ---
 
