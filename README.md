@@ -1,27 +1,39 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel-Rehbein</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Rehbein&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-Rehbein&label=VISITAS&color=8A2BE2&style=flat" alt="Visualizações de perfil" />
 </p>
 
 
+---
+## 🧑‍💻 Sobre Mim
+
+🎓 **Formação Acadêmica**
+- 📘 Quase formado em **Análise e Desenvolvimento de Sistemas**
+- 🎓 1 semestre em **Ciência da Computação** – PUC-RS
+- 🛡️ 1 semestre em **Defesa Cibernética** – SENAC-RS
+- 🖥️ Ensino Médio Técnico em **Informática** – SENAC
+
+📜 **Certificações**
+- 🧠 11 Certificados de **Tecnologia**
+- 🏛️ 16 Certificados de cursos relacionados ao **Ministério Público (MPRS)**
+- ✅ Total: **27 certificados**
+
+📌 **Experiências Extras**
+- 📝 Aplicador oficial do **ENEM 2024**
+- 🧑‍🏫 Fiscal de sala em diversos **concursos públicos**
+
+🌟 **Soft Skills**
+- 🔄 Adaptável a qualquer situação
+- 💡 Criativo e persistente
+- 🤝 Sociável e trabalho bem em equipe
+- 🔋 Energia, foco e determinação
+- 🌍 Inglês: **básico a intermediário**
+
+📂 *Você encontra todos os meus projetos nos repositórios abaixo 👇*
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-Sou **Gabriel**, desenvolvedor full stack com paixão por tecnologia, inovação e experiência do usuário.  
-Tenho experiência no desenvolvimento de sistemas web com foco em desempenho, acessibilidade e design responsivo.
-
-Atuo em projetos que envolvem desde o front-end com interfaces modernas até o back-end com integração a bancos de dados e automações.
-
-Também crio soluções com foco em **educação, inclusão digital e automação inteligente**, explorando integração com dispositivos como **Arduino** e sistemas locais.
-
-Costumo sempre ter ideias inovadoras, projetos que algum dia pretendo botar em pratica no mercado de trabalho. 
-
--> Esses projetos estão todos nos meus repoitórios.
-
----
 
 ## 🚀 Tecnologias e Skills
 
@@ -42,12 +54,12 @@ Costumo sempre ter ideias inovadoras, projetos que algum dia pretendo botar em p
   <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/UI/UX-%23F7DF1E?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-%2300ADD8?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudando-Java%20%7C%20C++-informational?style=for-the-badge&logo=code&logoColor=white" />
+</p>
 
-
-🛠️ Extras: UX/UI, APIs
-📚 Estudando: Java, C++
-
----
 
 ## 📊 Estatísticas GitHub
 
@@ -61,7 +73,7 @@ Costumo sempre ter ideias inovadoras, projetos que algum dia pretendo botar em p
 ## 🧠 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Rehbein&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Rehbein&theme=react-dark&bg_color=0d1117&color=00e6e6&line=00ffe7&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -75,6 +87,10 @@ Costumo sempre ter ideias inovadoras, projetos que algum dia pretendo botar em p
 - 🌎 Portfólio: [gabrielrehbein.com.br](https://gabrielrehbein.com.br/)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 <p align="center">
   Obrigado por visitar meu perfil! Vamos criar algo incrível juntos. 🚀
