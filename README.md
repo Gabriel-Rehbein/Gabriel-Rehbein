@@ -14,6 +14,12 @@
 - 🛡️ 1 semestre em **Defesa Cibernética** – SENAC-RS
 - 🖥️ Ensino Médio Técnico em **Informática** – SENAC
 
+💼 **Experiência Profissional**
+
+- 🏛️ Estágio na área de suporte técnico no **Ministério Público do Rio Grande do Sul**, com carga total de 781 horas
+
+- 🚗 Estágio em uma empresa de rastreamento veicular por chip, atuando com suporte e tecnologia
+- 
 📜 **Certificações**
 - 🧠 11 Certificados de **Tecnologia**
 - 🏛️ 16 Certificados de cursos relacionados ao **Ministério Público (MPRS)**
