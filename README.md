@@ -38,8 +38,6 @@
 - 🔋 Energia, foco e determinação
 - 🌍 Inglês: **básico a intermediário**
 
-📂 *Você encontra todos os meus projetos nos repositórios abaixo 👇*
-
 ---
 
 
