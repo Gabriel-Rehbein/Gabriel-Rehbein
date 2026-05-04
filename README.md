@@ -16,9 +16,11 @@
 
 💼 **Experiência Profissional**
 
-- 🏛️ Estágio na área de suporte técnico no **Ministério Público do Rio Grande do Sul**, com carga total de 781 horas
+- 🏛️ Estágio na área de suporte técnico no **Ministério Público do Rio Grande do Sul**, com carga total de 1 Ano
 
 - 🚗 Estágio em uma empresa de rastreamento veicular por chip, atuando com suporte e tecnologia
+  
+- 🏛️ Desenvolvedor Web de uma empresa distribuidora da **Shopee**
   
 📜 **Certificações**
 - 🧠 11 Certificados de **Tecnologia**
