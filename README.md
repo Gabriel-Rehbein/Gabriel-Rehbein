@@ -45,23 +45,68 @@
 
 ## 🚀 Tecnologias e Skills
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.arduino.cc/reference/en/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
-  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://docs.replit.com/" target="_blank"><img src="https://skillicons.dev/icons?i=replit" /></a>
-  <a href="https://www.sublimetext.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=sublime" /></a>
-  <a href="https://learn.microsoft.com/en-us/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" /></a>
-  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+## 🚀 Tecnologias
+
+### 💻 Linguagens de Programação
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python,java,cpp" />
 </p>
 
+---
+
+### 🌐 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" />
+</p>
+
+---
+
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+</p>
+
+---
+
+### ☁️ DevOps / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,npm" />
+</p>
+
+---
+
+### 🛠️ Ferramentas & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,replit,sublime,postman,figma" />
+</p>
+
+---
+
+### 🔧 Versionamento
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### 🖥️ Sistemas Operacionais
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</p>
+
+---
+
+### 🤖 Outros / Hardware / Extras
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,regex,md" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/UI/UX-%23F7DF1E?style=for-the-badge&logo=figma&logoColor=black" />
   <img src="https://img.shields.io/badge/REST%20API-%2300ADD8?style=for-the-badge&logo=api&logoColor=white" />
