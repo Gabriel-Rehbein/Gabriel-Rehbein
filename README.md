@@ -45,66 +45,16 @@
 
 ## 🚀 Tecnologias e Skills
 
-## 🚀 Tecnologias
-
 ### 💻 Linguagens de Programação
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python,java,cpp" />
-</p>
-
----
-
-### 🌐 Front-end
-<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" />
-</p>
-
----
-
-### ⚙️ Back-end
-<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
----
-
-### 🗄️ Banco de Dados
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
-</p>
-
----
-
-### ☁️ DevOps / Cloud
-<p>
   <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,npm" />
-</p>
-
----
-
-### 🛠️ Ferramentas & IDEs
-<p>
   <img src="https://skillicons.dev/icons?i=vscode,replit,sublime,postman,figma" />
-</p>
-
----
-
-### 🔧 Versionamento
-<p>
   <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
-
-### 🖥️ Sistemas Operacionais
-<p>
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-</p>
-
----
-
-### 🤖 Outros / Hardware / Extras
-<p>
   <img src="https://skillicons.dev/icons?i=arduino,regex,md" />
 </p>
 <p align="center">
