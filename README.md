@@ -45,7 +45,6 @@
 
 ## 🚀 Tecnologias e Skills
 
-### 💻 Linguagens de Programação
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python,java,cpp" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" />
