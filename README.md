@@ -9,7 +9,8 @@
 ## 🧑‍💻 Sobre Mim
 
 🎓 **Formação Acadêmica**
-- 📘 Quase formado em **Análise e Desenvolvimento de Sistemas**
+- Pós Graduação em **Engenharia de Software** - PUC-RIO (Em Andamento)
+- 📘 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🎓 1 semestre em **Ciência da Computação** – PUC-RS
 - 🛡️ 1 semestre em **Defesa Cibernética** – SENAC-RS
 - 🖥️ Ensino Médio Técnico em **Informática** – SENAC
