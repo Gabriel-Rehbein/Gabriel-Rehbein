@@ -17,16 +17,16 @@
 
 💼 **Experiência Profissional**
 
-- 🏛️ Estágio na área de suporte técnico no **Ministério Público do Rio Grande do Sul**, com carga total de 1 Ano
+- 🏛️ Estágio na área de suporte técnico no **Ministério Público do Rio Grande do Sul** e em Laboratório de Informática (UAU e UEQ)
 
-- 🚗 Estágio em uma empresa de rastreamento veicular por chip, atuando com suporte e tecnologia
+- 🚗 Estágio em uma empresa de rastreamento veicular por chip, atuando com suporte, vendas e tecnologia
   
 - 🏛️ Desenvolvedor Web de uma empresa distribuidora da **Shopee**
   
 📜 **Certificações**
-- 🧠 11 Certificados de **Tecnologia**
+- 🧠 14 Certificados de **Tecnologia**
 - 🏛️ 16 Certificados de cursos relacionados ao **Ministério Público (MPRS)**
-- ✅ Total: **27 certificados**
+- ✅ Total: **30 certificados**
 
 📌 **Experiências Extras**
 - 📝 Aplicador oficial do **ENEM 2024**
@@ -78,7 +78,6 @@
 
 - 📫 Email: **gabrielmr0812@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/gabriel-rehbein](https://www.linkedin.com/in/gabriel-rehbein)  
-- 🌎 Portfólio: [gabrielrehbein.com.br](https://gabrielrehbein.com.br/)
 
 ---
 <p align="center">
